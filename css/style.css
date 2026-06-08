@@ -826,6 +826,8 @@ body {
     .section-title { font-size: 2rem; }
     .subtitle { font-size: 1.2rem; }
     
+    .section { padding: 50px 0; }
+    .footer-section { padding: 60px 0; }
     
     .metric-item {
         flex-direction: column;
